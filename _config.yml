@@ -21,6 +21,7 @@ title_separator          : "-"
 name                     : "Alexey Nesvizhskii Proteomics Lab"
 description              : "Moving proteomics one spectrum at a time."
 
+environment              : production
 url                      : https://nesvilab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 
@@ -93,10 +94,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+    tracking_id          : "UA-5572974-16"
+    anonymize_ip         : false # true, false (default)
 
 
 # Site Author

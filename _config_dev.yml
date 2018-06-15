@@ -1,0 +1,8 @@
+environment              : development
+url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+Analytics
+analytics:
+  provider               : false # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          :
+    anonymize_ip         : false # true, false (default)
