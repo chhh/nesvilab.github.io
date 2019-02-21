@@ -22,7 +22,7 @@ name                     : "Alexey Nesvizhskii Proteomics Lab"
 description              : "Moving proteomics one spectrum at a time."
 
 environment              : production
-url                      : https://nesvilab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chhh.github.com/nesvilab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 
 baseurl                  : # the subpath of your site, e.g. "/blog"
